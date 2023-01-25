@@ -12,7 +12,7 @@ Feature: US105 How to use configuration.properties in methods
     Then tests that Url has "wisequarter" keyword
     And closes the page
 
-
+@p2
   Scenario: TC09 User tests that he could be able to reach Walmart homepage
 
     Given User goes to "walmartURL"

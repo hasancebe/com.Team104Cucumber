@@ -1,6 +1,6 @@
 Feature: US108 Scenario Outline how to use more than one data
 
-  @wot
+
    Scenario Outline: T12 amazon search test
 
 

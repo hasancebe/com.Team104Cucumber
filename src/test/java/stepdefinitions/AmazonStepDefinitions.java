@@ -39,6 +39,7 @@ public class AmazonStepDefinitions {
 
     @Then("user search for Java in search box")
     public void userSearchForJavaInSearchBox() {
+
         amazonPage.amazonSearchBox.sendKeys("java"+ Keys.ENTER);
     }
     @And("tests that results have Java word")
